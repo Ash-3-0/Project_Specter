@@ -1,0 +1,11 @@
+# NEVER commit real API keys
+keys.json
+
+# PyInstaller / Python
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+results.csv
+ips.txt

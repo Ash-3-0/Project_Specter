@@ -1,4 +1,3 @@
-# Project_Specter
 # SPECTER (Desktop + Local Web)
 
 Bulk IP threat lookup using **AbuseIPDB**, **VirusTotal** and **Project Honey Pot**.
@@ -38,4 +37,3 @@ Needs Python 3.9+ in PATH. Double-click `build_all.bat`. Output: `dist\SPECTER.e
 - Blacklisted if AbuseIPDB >= 75, or VirusTotal >= 3 engines malicious, or Honey Pot listing
 
 Developed by Sparsh Bisht (AshHunts.pvtltd).
-
